@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.py[cod]
 
 # C extensions
@@ -39,3 +40,13 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+=======
+*.sublime-*
+*.pyc
+.idea
+.coverage
+htmlcov
+settings.ini
+twistd.pid
+website/_site/
+>>>>>>> eb4ed6cbf86d9c58dc1fc80549daacce8d0b7a06
